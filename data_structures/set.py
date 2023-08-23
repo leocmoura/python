@@ -63,3 +63,5 @@ conjunto_g.add(2)
 
 # in
 1 in conjunto_e # True
+
+print(conjunto_c | conjunto_d)
